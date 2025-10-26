@@ -118,4 +118,5 @@ int main() {
     if (birthday(mon, day)) {dr();}
     else if (Age(year, mon, day) >= 18) {vodila();}
     else {ne_vodila();}
+    return 0;
 }
