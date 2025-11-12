@@ -49,4 +49,4 @@ build/
 *.pid
 *.dump
 
-sufTrash
+trash.cpp

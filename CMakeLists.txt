@@ -66,6 +66,7 @@ add_executable(lab04_task4 lab04/task4.cpp)
 add_executable(lab04_task5 lab04/task5.cpp)
 add_executable(lab04_task6 lab04/task6.cpp)
 add_executable(lab04_task7 lab04/task7.cpp)
+add_executable(lab04_task8 lab04/task8.cpp)
 
 #Трэш
-add_executable(trash sufTrash/trash.cpp)
+add_executable(trash trash.cpp)
